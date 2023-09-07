@@ -24,6 +24,7 @@ URL API: `http://localhost:8000/api`
 4. isi JWT_SECRET di .env dengan random string, ubah nama database, username, dan password sesuai dengan database yang akan digunakan
 5. `php artisan serve`
 6. `php artisan migrate:fresh`
+7. `php artisan storage:link`
 
 ## Cara Install Bagian Frontend
 
