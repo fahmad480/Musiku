@@ -4,6 +4,16 @@
 
 ![ERD](https://github.com/fahmad480/Musiku/blob/main/ERD.png?raw=true)
 
+## Screenshot
+
+![Login Page](https://github.com/fahmad480/Musiku/blob/main/Screenshot_1.png?raw=true)
+
+![Register Page](https://github.com/fahmad480/Musiku/blob/main/Screenshot_2.png?raw=true)
+
+![Dashboard Page](https://github.com/fahmad480/Musiku/blob/main/Screenshot_3.png?raw=true)
+
+![Library Page](https://github.com/fahmad480/Musiku/blob/main/Screenshot_4.png?raw=true)
+
 ## Cara Install Bagian Backend
 
 URL API: `http://localhost:8000/api`
